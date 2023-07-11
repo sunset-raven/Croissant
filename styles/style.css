@@ -14,6 +14,10 @@ p {
   font-size: 24px;
 }
 
+.croissant-photo {
+  max-width: 60%;
+}
+
 .navigation-links {
   display: flex;
   justify-content: space-evenly;
